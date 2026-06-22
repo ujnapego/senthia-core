@@ -1,0 +1,12 @@
+# Secretos: nunca subir tokens
+.env
+automatizacion/.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporales del generador del plan
+catalogo/_build/contactsheets/
+plan.json.tmp

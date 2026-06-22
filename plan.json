@@ -1,0 +1,6595 @@
+{
+  "meta": {
+    "marca": "Senthia Core",
+    "fecha_inicio": "2026-06-18",
+    "fecha_fin": "2027-06-17",
+    "dias": 365,
+    "ciclo_dias": 6,
+    "sueltos_por_ciclo": 5,
+    "cooldown_dias": 30,
+    "fuente_imagenes": "solo lavabo-01-*/render (n).jpg",
+    "redes": [
+      "instagram",
+      "facebook"
+    ],
+    "caption_language": "en",
+    "caption_tone": "poetic"
+  },
+  "posts": [
+    {
+      "id": 1,
+      "date": "2026-06-18",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (1).jpg"
+      ],
+      "caption": "The clean cylinder of Ciae, where the stone speaks first. Open rooms where limestone sets the tone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 2,
+      "date": "2026-06-19",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (2).jpg"
+      ],
+      "caption": "Ciae, upright and quiet, made to outlast us. Southern light enters, and the stone keeps it.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 3,
+      "date": "2026-06-20",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (3).jpg"
+      ],
+      "caption": "Calm made matter. The straight silhouette of Ciae. Mineral microcement and stone. Monolithic stillness. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 4,
+      "date": "2026-06-21",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (4).jpg"
+      ],
+      "caption": "Ciae, a column made soft: stone that asks to be touched. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 5,
+      "date": "2026-06-22",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (5).jpg"
+      ],
+      "caption": "Still lines. Ciae, a cylinder of still stone. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 6,
+      "date": "2026-06-23",
+      "type": "carousel",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (1).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (2).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (3).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (4).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (5).jpg"
+      ],
+      "caption": "Ciae in five frames. One week beside the same cylinder in Alba limestone, under changing light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 7,
+      "date": "2026-06-24",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (1).jpg"
+      ],
+      "caption": "The flared stem of Galea, in Alba limestone. Quiet green and Alba limestone, in balance. The full bath, in calm.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 8,
+      "date": "2026-06-25",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (2).jpg"
+      ],
+      "caption": "The sculpted goblet of Galea. Daylight and sea air. Everything breathes.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 9,
+      "date": "2026-06-26",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (3).jpg"
+      ],
+      "caption": "Galea, poised like a vessel, where the stone speaks first. Open rooms where limestone sets the tone. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 10,
+      "date": "2026-06-27",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (4).jpg"
+      ],
+      "caption": "The chalice of Galea, made to outlast us. Southern light enters, and the stone keeps it.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 11,
+      "date": "2026-06-28",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (5).jpg"
+      ],
+      "caption": "Calm made matter. Galea, a cup lifted from stone. Artisan tile and natural stone, in conversation.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 12,
+      "date": "2026-06-29",
+      "type": "carousel",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (1).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (2).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (3).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (4).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (5).jpg"
+      ],
+      "caption": "Five ways to see Galea. Chalice, five atmospheres, one single stone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 13,
+      "date": "2026-06-30",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (1).jpg"
+      ],
+      "caption": "Still lines. The gentle hollow of Hue. Open rooms where limestone sets the tone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 14,
+      "date": "2026-07-01",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (2).jpg"
+      ],
+      "caption": "Hue, a bowl that holds the light, carved from a single stone. Southern light enters, and the stone keeps it.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 15,
+      "date": "2026-07-02",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (3).jpg"
+      ],
+      "caption": "The low bowl of Hue, in Alba limestone. Earth tones and late warmth. A bath that holds you. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 16,
+      "date": "2026-07-03",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (4).jpg"
+      ],
+      "caption": "Hue, an open shallow basin. Night, brass and contrast. Quiet luxury.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 17,
+      "date": "2026-07-04",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (5).jpg"
+      ],
+      "caption": "The wide quiet mouth of Hue, where the stone speaks first. Continuous surfaces, matter held quiet.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 18,
+      "date": "2026-07-05",
+      "type": "carousel",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (1).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (2).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (3).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (4).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (5).jpg"
+      ],
+      "caption": "The week of Hue, gathered. Five rooms for one open bowl in Alba limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 19,
+      "date": "2026-07-06",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (1).jpg"
+      ],
+      "caption": "Calm made matter. Levant, smooth as a stone in a stream. Clear mornings and honest matter. The full bath, in calm.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 20,
+      "date": "2026-07-07",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (2).jpg"
+      ],
+      "caption": "The river-stone of Levant: stone that asks to be touched. Daylight and sea air. Everything breathes.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 21,
+      "date": "2026-07-08",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (3).jpg"
+      ],
+      "caption": "Still lines. Levant, shaped by water. Mineral microcement and stone. Monolithic stillness. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 22,
+      "date": "2026-07-09",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (4).jpg"
+      ],
+      "caption": "The organic curve of Levant, carved from a single stone. Mineral and sober; the piece breathes alone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 23,
+      "date": "2026-07-10",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (5).jpg"
+      ],
+      "caption": "The pebble form of Levant, in Alba limestone. Clear mornings and honest matter.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 24,
+      "date": "2026-07-11",
+      "type": "carousel",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (1).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (2).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (3).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (4).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (5).jpg"
+      ],
+      "caption": "Levant, the whole collection. Five frames chosen from the cycle.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 25,
+      "date": "2026-07-12",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (1).jpg"
+      ],
+      "caption": "The low oval of Neiva, where the stone speaks first. Contemporary purity, natural matter.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 26,
+      "date": "2026-07-13",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (2).jpg"
+      ],
+      "caption": "Neiva, soft and contained, made to outlast us. Southern light enters, and the stone keeps it.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 27,
+      "date": "2026-07-14",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (3).jpg"
+      ],
+      "caption": "Calm made matter. The rounded silhouette of Neiva. Pale marble and clean lines. Contemporary, serene. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 28,
+      "date": "2026-07-15",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (4).jpg"
+      ],
+      "caption": "The quiet oval of Neiva: stone that asks to be touched. Daylight and sea air. Everything breathes.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 29,
+      "date": "2026-07-16",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (5).jpg"
+      ],
+      "caption": "Still lines. Neiva, an oval at rest. Open rooms where limestone sets the tone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 30,
+      "date": "2026-07-17",
+      "type": "carousel",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (1).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (2).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (3).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (4).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (5).jpg"
+      ],
+      "caption": "We gather Neiva: five images, one character. Alba limestone from Caravaca.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 31,
+      "date": "2026-07-18",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (1).jpg"
+      ],
+      "caption": "Sorent, a Mediterranean oval, in Alba limestone. Raw matter around, a polished piece at the center.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 32,
+      "date": "2026-07-19",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (2).jpg"
+      ],
+      "caption": "The serene profile of Sorent. A wall of rough stone and patient hands. The Mediterranean, indoors.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 33,
+      "date": "2026-07-20",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (3).jpg"
+      ],
+      "caption": "The rounded stone of Sorent, where the stone speaks first. Stone upon stone, the way it was always done. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 34,
+      "date": "2026-07-21",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (4).jpg"
+      ],
+      "caption": "Sorent, unhurried and round, made to outlast us. Mineral and sober; the piece breathes alone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 35,
+      "date": "2026-07-22",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (5).jpg"
+      ],
+      "caption": "Calm made matter. The round calm of Sorent. Continuous surfaces, matter held quiet.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 36,
+      "date": "2026-07-23",
+      "type": "carousel",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (1).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (2).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (3).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (4).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (5).jpg"
+      ],
+      "caption": "A week in review. Sorent and its round basin, in five quiet gestures.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 37,
+      "date": "2026-07-24",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (6).jpg"
+      ],
+      "caption": "Still lines. Ciae, upright and quiet. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 38,
+      "date": "2026-07-25",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (7).jpg"
+      ],
+      "caption": "The straight silhouette of Ciae, carved from a single stone. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 39,
+      "date": "2026-07-26",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (8).jpg"
+      ],
+      "caption": "Ciae, a column made soft, in Alba limestone. Earth tones and late warmth. A bath that holds you. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 40,
+      "date": "2026-07-27",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (9).jpg"
+      ],
+      "caption": "Ciae, a cylinder of still stone. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 41,
+      "date": "2026-07-28",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (10).jpg"
+      ],
+      "caption": "The clean cylinder of Ciae, where the stone speaks first. Continuous surfaces, matter held quiet.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 42,
+      "date": "2026-07-29",
+      "type": "carousel",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (6).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (7).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (8).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (9).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (10).jpg"
+      ],
+      "caption": "Ciae in five frames. One week beside the same cylinder in Alba limestone, under changing light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 43,
+      "date": "2026-07-30",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (6).jpg"
+      ],
+      "caption": "Calm made matter. The sculpted goblet of Galea. Quiet green and Alba limestone, in balance.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 44,
+      "date": "2026-07-31",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (7).jpg"
+      ],
+      "caption": "Galea, poised like a vessel: stone that asks to be touched. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 45,
+      "date": "2026-08-01",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (8).jpg"
+      ],
+      "caption": "Still lines. The chalice of Galea. Stone counter, evening light, silence. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 46,
+      "date": "2026-08-02",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (9).jpg"
+      ],
+      "caption": "Galea, a cup lifted from stone, carved from a single stone. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 47,
+      "date": "2026-08-03",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (10).jpg"
+      ],
+      "caption": "The flared stem of Galea, in Alba limestone. Earth tones and late warmth. A bath that holds you.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 48,
+      "date": "2026-08-04",
+      "type": "carousel",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (6).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (7).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (8).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (9).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (10).jpg"
+      ],
+      "caption": "Five ways to see Galea. Chalice, five atmospheres, one single stone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 49,
+      "date": "2026-08-05",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (6).jpg"
+      ],
+      "caption": "Hue, a bowl that holds the light, where the stone speaks first. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 50,
+      "date": "2026-08-06",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (7).jpg"
+      ],
+      "caption": "The low bowl of Hue, made to outlast us. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 51,
+      "date": "2026-08-07",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (8).jpg"
+      ],
+      "caption": "Calm made matter. Hue, an open shallow basin. Earth tones and late warmth. A bath that holds you. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 52,
+      "date": "2026-08-08",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (9).jpg"
+      ],
+      "caption": "The wide quiet mouth of Hue: stone that asks to be touched. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 53,
+      "date": "2026-08-09",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (10).jpg"
+      ],
+      "caption": "Still lines. The gentle hollow of Hue. Nocturnal restraint: pale stone on deep ground.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 54,
+      "date": "2026-08-10",
+      "type": "carousel",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (6).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (7).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (8).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (9).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (10).jpg"
+      ],
+      "caption": "The week of Hue, gathered. Five rooms for one open bowl in Alba limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 55,
+      "date": "2026-08-11",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (6).jpg"
+      ],
+      "caption": "The river-stone of Levant, in Alba limestone. Clear mornings and honest matter.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 56,
+      "date": "2026-08-12",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (7).jpg"
+      ],
+      "caption": "Levant, shaped by water. Daylight and sea air. Everything breathes.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 57,
+      "date": "2026-08-13",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (8).jpg"
+      ],
+      "caption": "The organic curve of Levant, where the stone speaks first. Stone upon stone, the way it was always done. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 58,
+      "date": "2026-08-14",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (9).jpg"
+      ],
+      "caption": "The pebble form of Levant, made to outlast us. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 59,
+      "date": "2026-08-15",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (10).jpg"
+      ],
+      "caption": "Calm made matter. Levant, smooth as a stone in a stream. A hollow of light, the piece become sculpture. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 60,
+      "date": "2026-08-16",
+      "type": "carousel",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (6).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (7).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (8).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (9).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (10).jpg"
+      ],
+      "caption": "Levant, the whole collection. Five frames chosen from the cycle.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 61,
+      "date": "2026-08-17",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (6).jpg"
+      ],
+      "caption": "Still lines. Neiva, soft and contained. Light grazes the edge and reveals the grain.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 62,
+      "date": "2026-08-18",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (7).jpg"
+      ],
+      "caption": "The rounded silhouette of Neiva, carved from a single stone. Southern light enters, and the stone keeps it.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 63,
+      "date": "2026-08-19",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (8).jpg"
+      ],
+      "caption": "The quiet oval of Neiva, in Alba limestone. Mineral microcement and stone. Monolithic stillness. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 64,
+      "date": "2026-08-20",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (9).jpg"
+      ],
+      "caption": "Neiva, an oval at rest. Daylight and sea air. Everything breathes.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 65,
+      "date": "2026-08-21",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (10).jpg"
+      ],
+      "caption": "The low oval of Neiva, where the stone speaks first. Light grazes the edge and reveals the grain.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 66,
+      "date": "2026-08-22",
+      "type": "carousel",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (6).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (7).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (8).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (9).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (10).jpg"
+      ],
+      "caption": "We gather Neiva: five images, one character. Alba limestone from Caravaca.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 67,
+      "date": "2026-08-23",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (6).jpg"
+      ],
+      "caption": "Calm made matter. The serene profile of Sorent. Mineral and sober; the piece breathes alone. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 68,
+      "date": "2026-08-24",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (7).jpg"
+      ],
+      "caption": "The rounded stone of Sorent: stone that asks to be touched. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 69,
+      "date": "2026-08-25",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (8).jpg"
+      ],
+      "caption": "Still lines. Sorent, unhurried and round. Stone upon stone, the way it was always done. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 70,
+      "date": "2026-08-26",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (9).jpg"
+      ],
+      "caption": "The round calm of Sorent, carved from a single stone. Southern light enters, and the stone keeps it.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 71,
+      "date": "2026-08-27",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (10).jpg"
+      ],
+      "caption": "Sorent, a Mediterranean oval, in Alba limestone. Clear mornings and honest matter.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 72,
+      "date": "2026-08-28",
+      "type": "carousel",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (6).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (7).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (8).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (9).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (10).jpg"
+      ],
+      "caption": "A week in review. Sorent and its round basin, in five quiet gestures.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 73,
+      "date": "2026-08-29",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (11).jpg"
+      ],
+      "caption": "The straight silhouette of Ciae, where the stone speaks first. Light grazes the edge and reveals the grain.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 74,
+      "date": "2026-08-30",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (12).jpg"
+      ],
+      "caption": "Ciae, a column made soft, made to outlast us. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 75,
+      "date": "2026-08-31",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (13).jpg"
+      ],
+      "caption": "Calm made matter. Ciae, a cylinder of still stone. Earth tones and late warmth. A bath that holds you. Alba limestone: the stone of our land. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 76,
+      "date": "2026-09-01",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (14).jpg"
+      ],
+      "caption": "The clean cylinder of Ciae: stone that asks to be touched. Night, brass and contrast. Quiet luxury.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 77,
+      "date": "2026-09-02",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (15).jpg"
+      ],
+      "caption": "Still lines. Ciae, upright and quiet. Light grazes the edge and reveals the grain.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 78,
+      "date": "2026-09-03",
+      "type": "carousel",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (11).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (12).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (13).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (14).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (15).jpg"
+      ],
+      "caption": "Ciae in five frames. One week beside the same cylinder in Alba limestone, under changing light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 79,
+      "date": "2026-09-04",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (11).jpg"
+      ],
+      "caption": "Galea, poised like a vessel, in Alba limestone. Dark ground, pale stone. The matter speaks alone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 80,
+      "date": "2026-09-05",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (12).jpg"
+      ],
+      "caption": "The chalice of Galea. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 81,
+      "date": "2026-09-06",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (13).jpg"
+      ],
+      "caption": "Galea, a cup lifted from stone, where the stone speaks first. Stone counter, evening light, silence. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 82,
+      "date": "2026-09-07",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (14).jpg"
+      ],
+      "caption": "The flared stem of Galea, made to outlast us. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 83,
+      "date": "2026-09-08",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (15).jpg"
+      ],
+      "caption": "Calm made matter. The sculpted goblet of Galea. Earth tones and late warmth. A bath that holds you.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 84,
+      "date": "2026-09-09",
+      "type": "carousel",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (11).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (12).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (13).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (14).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (15).jpg"
+      ],
+      "caption": "Five ways to see Galea. Chalice, five atmospheres, one single stone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 85,
+      "date": "2026-09-10",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (11).jpg"
+      ],
+      "caption": "Still lines. The low bowl of Hue. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 86,
+      "date": "2026-09-11",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (12).jpg"
+      ],
+      "caption": "Hue, an open shallow basin, carved from a single stone. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 87,
+      "date": "2026-09-12",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (13).jpg"
+      ],
+      "caption": "The wide quiet mouth of Hue, in Alba limestone. A hollow of light, the piece become sculpture. Alba limestone: the stone of our land. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 88,
+      "date": "2026-09-13",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (14).jpg"
+      ],
+      "caption": "The gentle hollow of Hue. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 89,
+      "date": "2026-09-14",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (15).jpg"
+      ],
+      "caption": "Hue, a bowl that holds the light, where the stone speaks first. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 90,
+      "date": "2026-09-15",
+      "type": "carousel",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (11).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (12).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (13).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (14).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (15).jpg"
+      ],
+      "caption": "The week of Hue, gathered. Five rooms for one open bowl in Alba limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 91,
+      "date": "2026-09-16",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (11).jpg"
+      ],
+      "caption": "Calm made matter. Levant, shaped by water. Earth tones and late warmth. A bath that holds you. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 92,
+      "date": "2026-09-17",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (12).jpg"
+      ],
+      "caption": "The organic curve of Levant: stone that asks to be touched. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 93,
+      "date": "2026-09-18",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (13).jpg"
+      ],
+      "caption": "Still lines. The pebble form of Levant. Light grazes the edge and reveals the grain. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 94,
+      "date": "2026-09-19",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (14).jpg"
+      ],
+      "caption": "Levant, smooth as a stone in a stream, carved from a single stone. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 95,
+      "date": "2026-09-20",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (15).jpg"
+      ],
+      "caption": "The river-stone of Levant, in Alba limestone. Dark ground, pale stone. The matter speaks alone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 96,
+      "date": "2026-09-21",
+      "type": "carousel",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (11).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (12).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (13).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (14).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (15).jpg"
+      ],
+      "caption": "Levant, the whole collection. Five frames chosen from the cycle.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 97,
+      "date": "2026-09-22",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (11).jpg"
+      ],
+      "caption": "The rounded silhouette of Neiva, where the stone speaks first. Open rooms where limestone sets the tone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 98,
+      "date": "2026-09-23",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (12).jpg"
+      ],
+      "caption": "The quiet oval of Neiva, made to outlast us. Southern light enters, and the stone keeps it.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 99,
+      "date": "2026-09-24",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (13).jpg"
+      ],
+      "caption": "Calm made matter. Neiva, an oval at rest. Earth tones and late warmth. A bath that holds you. Alba limestone: the stone of our land. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 100,
+      "date": "2026-09-25",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (14).jpg"
+      ],
+      "caption": "The low oval of Neiva: stone that asks to be touched. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 101,
+      "date": "2026-09-26",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (15).jpg"
+      ],
+      "caption": "Still lines. Neiva, soft and contained. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 102,
+      "date": "2026-09-27",
+      "type": "carousel",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (11).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (12).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (13).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (14).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (15).jpg"
+      ],
+      "caption": "We gather Neiva: five images, one character. Alba limestone from Caravaca.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 103,
+      "date": "2026-09-28",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (11).jpg"
+      ],
+      "caption": "The rounded stone of Sorent, in Alba limestone. Clear mornings and honest matter. The full bath, in calm.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 104,
+      "date": "2026-09-29",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (12).jpg"
+      ],
+      "caption": "Sorent, unhurried and round. Daylight and sea air. Everything breathes.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 105,
+      "date": "2026-09-30",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (13).jpg"
+      ],
+      "caption": "The round calm of Sorent, where the stone speaks first. Stone upon stone, the way it was always done. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 106,
+      "date": "2026-10-01",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (14).jpg"
+      ],
+      "caption": "Sorent, a Mediterranean oval, made to outlast us. Country air and stone worked by hand.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 107,
+      "date": "2026-10-02",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (15).jpg"
+      ],
+      "caption": "Calm made matter. The serene profile of Sorent. Raw matter around, a polished piece at the center. The full bath, in calm.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 108,
+      "date": "2026-10-03",
+      "type": "carousel",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (11).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (12).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (13).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (14).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (15).jpg"
+      ],
+      "caption": "A week in review. Sorent and its round basin, in five quiet gestures.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 109,
+      "date": "2026-10-04",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (16).jpg"
+      ],
+      "caption": "Still lines. Ciae, a column made soft. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 110,
+      "date": "2026-10-05",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (17).jpg"
+      ],
+      "caption": "Ciae, a cylinder of still stone, carved from a single stone. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 111,
+      "date": "2026-10-06",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (18).jpg"
+      ],
+      "caption": "The clean cylinder of Ciae, in Alba limestone. Earth tones and late warmth. A bath that holds you. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 112,
+      "date": "2026-10-07",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (19).jpg"
+      ],
+      "caption": "Ciae, upright and quiet. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 113,
+      "date": "2026-10-08",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (20).jpg"
+      ],
+      "caption": "The straight silhouette of Ciae, where the stone speaks first. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 114,
+      "date": "2026-10-09",
+      "type": "carousel",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (16).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (17).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (18).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (19).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (20).jpg"
+      ],
+      "caption": "Ciae in five frames. One week beside the same cylinder in Alba limestone, under changing light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 115,
+      "date": "2026-10-10",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (16).jpg"
+      ],
+      "caption": "Calm made matter. The chalice of Galea. Earth tones and late warmth. A bath that holds you. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 116,
+      "date": "2026-10-11",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (17).jpg"
+      ],
+      "caption": "Galea, a cup lifted from stone: stone that asks to be touched. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 117,
+      "date": "2026-10-12",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (18).jpg"
+      ],
+      "caption": "Still lines. The flared stem of Galea. Stone counter, evening light, silence. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 118,
+      "date": "2026-10-13",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (19).jpg"
+      ],
+      "caption": "The sculpted goblet of Galea, carved from a single stone. Shadow, and a single beam across the limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 119,
+      "date": "2026-10-14",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (20).jpg"
+      ],
+      "caption": "Galea, poised like a vessel, in Alba limestone. Earth tones and late warmth. A bath that holds you.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 120,
+      "date": "2026-10-15",
+      "type": "carousel",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (16).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (17).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (18).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (19).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (20).jpg"
+      ],
+      "caption": "Five ways to see Galea. Chalice, five atmospheres, one single stone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 121,
+      "date": "2026-10-16",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (16).jpg"
+      ],
+      "caption": "Hue, an open shallow basin, where the stone speaks first. Nocturnal restraint: pale stone on deep ground.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 122,
+      "date": "2026-10-17",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (17).jpg"
+      ],
+      "caption": "The wide quiet mouth of Hue, made to outlast us. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 123,
+      "date": "2026-10-18",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (18).jpg"
+      ],
+      "caption": "Calm made matter. The gentle hollow of Hue. A hollow of light, the piece become sculpture. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 124,
+      "date": "2026-10-19",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (19).jpg"
+      ],
+      "caption": "Hue, a bowl that holds the light: stone that asks to be touched. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 125,
+      "date": "2026-10-20",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (20).jpg"
+      ],
+      "caption": "Still lines. The low bowl of Hue. Continuous surfaces, matter held quiet.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 126,
+      "date": "2026-10-21",
+      "type": "carousel",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (16).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (17).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (18).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (19).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (20).jpg"
+      ],
+      "caption": "The week of Hue, gathered. Five rooms for one open bowl in Alba limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 127,
+      "date": "2026-10-22",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (16).jpg"
+      ],
+      "caption": "The organic curve of Levant, in Alba limestone. Earth tones and late warmth. A bath that holds you. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 128,
+      "date": "2026-10-23",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (17).jpg"
+      ],
+      "caption": "The pebble form of Levant. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 129,
+      "date": "2026-10-24",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (18).jpg"
+      ],
+      "caption": "Levant, smooth as a stone in a stream, where the stone speaks first. Nocturnal restraint: pale stone on deep ground. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 130,
+      "date": "2026-10-25",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (19).jpg"
+      ],
+      "caption": "The river-stone of Levant, made to outlast us. Shadow, and a single beam across the limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 131,
+      "date": "2026-10-26",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (1).jpg"
+      ],
+      "caption": "The river-stone of Levant, carved from a single stone. Daylight and sea air. Everything breathes.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 132,
+      "date": "2026-10-27",
+      "type": "carousel",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (16).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (17).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (18).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (19).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (1).jpg"
+      ],
+      "caption": "Levant, the whole collection. Five frames chosen from the cycle.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 133,
+      "date": "2026-10-28",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (16).jpg"
+      ],
+      "caption": "Still lines. The quiet oval of Neiva. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 134,
+      "date": "2026-10-29",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (17).jpg"
+      ],
+      "caption": "Neiva, an oval at rest, carved from a single stone. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 135,
+      "date": "2026-10-30",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (18).jpg"
+      ],
+      "caption": "The low oval of Neiva, in Alba limestone. Earth tones and late warmth. A bath that holds you. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 136,
+      "date": "2026-10-31",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (19).jpg"
+      ],
+      "caption": "Neiva, soft and contained. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 137,
+      "date": "2026-11-01",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (20).jpg"
+      ],
+      "caption": "The rounded silhouette of Neiva, where the stone speaks first. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 138,
+      "date": "2026-11-02",
+      "type": "carousel",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (16).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (17).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (18).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (19).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (20).jpg"
+      ],
+      "caption": "We gather Neiva: five images, one character. Alba limestone from Caravaca.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 139,
+      "date": "2026-11-03",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (16).jpg"
+      ],
+      "caption": "Calm made matter. Sorent, unhurried and round. Earth tones and late warmth. A bath that holds you.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 140,
+      "date": "2026-11-04",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (17).jpg"
+      ],
+      "caption": "The round calm of Sorent: stone that asks to be touched. Night, brass and contrast. Quiet luxury.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 141,
+      "date": "2026-11-05",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (18).jpg"
+      ],
+      "caption": "Still lines. Sorent, a Mediterranean oval. Stone counter, evening light, silence. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 142,
+      "date": "2026-11-06",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (19).jpg"
+      ],
+      "caption": "The serene profile of Sorent, carved from a single stone. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 143,
+      "date": "2026-11-07",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (20).jpg"
+      ],
+      "caption": "The rounded stone of Sorent, in Alba limestone. A hollow of light, the piece become sculpture.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 144,
+      "date": "2026-11-08",
+      "type": "carousel",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (16).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (17).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (18).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (19).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (20).jpg"
+      ],
+      "caption": "A week in review. Sorent and its round basin, in five quiet gestures.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 145,
+      "date": "2026-11-09",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (21).jpg"
+      ],
+      "caption": "Ciae, a cylinder of still stone, where the stone speaks first. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 146,
+      "date": "2026-11-10",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (22).jpg"
+      ],
+      "caption": "The clean cylinder of Ciae, made to outlast us. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 147,
+      "date": "2026-11-11",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (23).jpg"
+      ],
+      "caption": "Calm made matter. Ciae, upright and quiet. Earth tones and late warmth. A bath that holds you. Alba limestone: the stone of our land. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 148,
+      "date": "2026-11-12",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (24).jpg"
+      ],
+      "caption": "The straight silhouette of Ciae: stone that asks to be touched. A backlit niche; light traces the rim.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 149,
+      "date": "2026-11-13",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (25).jpg"
+      ],
+      "caption": "Still lines. Ciae, a column made soft. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 150,
+      "date": "2026-11-14",
+      "type": "carousel",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (21).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (22).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (23).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (24).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (25).jpg"
+      ],
+      "caption": "Ciae in five frames. One week beside the same cylinder in Alba limestone, under changing light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 151,
+      "date": "2026-11-15",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (21).jpg"
+      ],
+      "caption": "Galea, a cup lifted from stone, in Alba limestone. Dark ground, pale stone. The matter speaks alone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 152,
+      "date": "2026-11-16",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (22).jpg"
+      ],
+      "caption": "The flared stem of Galea. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 153,
+      "date": "2026-11-17",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (23).jpg"
+      ],
+      "caption": "The sculpted goblet of Galea, where the stone speaks first. Open rooms where limestone sets the tone. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 154,
+      "date": "2026-11-18",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (24).jpg"
+      ],
+      "caption": "Galea, poised like a vessel, made to outlast us. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 155,
+      "date": "2026-11-19",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (25).jpg"
+      ],
+      "caption": "Calm made matter. The chalice of Galea. Earth tones and late warmth. A bath that holds you.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 156,
+      "date": "2026-11-20",
+      "type": "carousel",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (21).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (22).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (23).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (24).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (25).jpg"
+      ],
+      "caption": "Five ways to see Galea. Chalice, five atmospheres, one single stone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 157,
+      "date": "2026-11-21",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (21).jpg"
+      ],
+      "caption": "Still lines. The wide quiet mouth of Hue. Light grazes the edge and reveals the grain.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 158,
+      "date": "2026-11-22",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (22).jpg"
+      ],
+      "caption": "The gentle hollow of Hue, carved from a single stone. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 159,
+      "date": "2026-11-23",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (23).jpg"
+      ],
+      "caption": "Hue, a bowl that holds the light, in Alba limestone. Earth tones and late warmth. A bath that holds you. Alba limestone: the stone of our land. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 160,
+      "date": "2026-11-24",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (24).jpg"
+      ],
+      "caption": "The low bowl of Hue. A backlit niche; light traces the rim.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 161,
+      "date": "2026-11-25",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (25).jpg"
+      ],
+      "caption": "Hue, an open shallow basin, where the stone speaks first. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 162,
+      "date": "2026-11-26",
+      "type": "carousel",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (21).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (22).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (23).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (24).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (25).jpg"
+      ],
+      "caption": "The week of Hue, gathered. Five rooms for one open bowl in Alba limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 163,
+      "date": "2026-11-27",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (2).jpg"
+      ],
+      "caption": "The organic curve of Levant, carved from a single stone. Daylight and sea air. Everything breathes. One stone. From Caravaca de la Cruz.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 164,
+      "date": "2026-11-28",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (3).jpg"
+      ],
+      "caption": "The pebble form of Levant, in Alba limestone. Continuous surfaces, matter held quiet.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 165,
+      "date": "2026-11-29",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (4).jpg"
+      ],
+      "caption": "Levant, smooth as a stone in a stream. Mineral microcement and stone. Monolithic stillness.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details"
+      ],
+      "posted": false
+    },
+    {
+      "id": 166,
+      "date": "2026-11-30",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (5).jpg"
+      ],
+      "caption": "The river-stone of Levant, where the stone speaks first. Clear mornings and honest matter. Made in Caravaca, made to stay.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 167,
+      "date": "2026-12-01",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (6).jpg"
+      ],
+      "caption": "Levant, shaped by water, made to outlast us. Daylight and sea air. Everything breathes.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter"
+      ],
+      "posted": false
+    },
+    {
+      "id": 168,
+      "date": "2026-12-02",
+      "type": "carousel",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (2).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (3).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (4).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (5).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (6).jpg"
+      ],
+      "caption": "Levant, the whole collection. Five frames chosen from the cycle.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 169,
+      "date": "2026-12-03",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (21).jpg"
+      ],
+      "caption": "Neiva, an oval at rest, where the stone speaks first. Light grazes the edge and reveals the grain.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 170,
+      "date": "2026-12-04",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (22).jpg"
+      ],
+      "caption": "The low oval of Neiva, made to outlast us. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 171,
+      "date": "2026-12-05",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (23).jpg"
+      ],
+      "caption": "Calm made matter. Neiva, soft and contained. Earth tones and late warmth. A bath that holds you. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 172,
+      "date": "2026-12-06",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (24).jpg"
+      ],
+      "caption": "The rounded silhouette of Neiva: stone that asks to be touched. A backlit niche; light traces the rim.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 173,
+      "date": "2026-12-07",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (25).jpg"
+      ],
+      "caption": "Still lines. The quiet oval of Neiva. Nocturnal restraint: pale stone on deep ground.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 174,
+      "date": "2026-12-08",
+      "type": "carousel",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (21).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (22).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (23).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (24).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (25).jpg"
+      ],
+      "caption": "We gather Neiva: five images, one character. Alba limestone from Caravaca.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 175,
+      "date": "2026-12-09",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (21).jpg"
+      ],
+      "caption": "The round calm of Sorent, in Alba limestone. Earth tones and late warmth. A bath that holds you.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 176,
+      "date": "2026-12-10",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (22).jpg"
+      ],
+      "caption": "Sorent, a Mediterranean oval. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 177,
+      "date": "2026-12-11",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (23).jpg"
+      ],
+      "caption": "The serene profile of Sorent, where the stone speaks first. Stone counter, evening light, silence. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 178,
+      "date": "2026-12-12",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (24).jpg"
+      ],
+      "caption": "The rounded stone of Sorent, made to outlast us. Shadow and character. The limestone glows from within.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 179,
+      "date": "2026-12-13",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (25).jpg"
+      ],
+      "caption": "Calm made matter. Sorent, unhurried and round. Earth tones and late warmth. A bath that holds you.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 180,
+      "date": "2026-12-14",
+      "type": "carousel",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (21).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (22).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (23).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (24).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (25).jpg"
+      ],
+      "caption": "A week in review. Sorent and its round basin, in five quiet gestures.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 181,
+      "date": "2026-12-15",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (26).jpg"
+      ],
+      "caption": "Still lines. The clean cylinder of Ciae. Nocturnal restraint: pale stone on deep ground.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 182,
+      "date": "2026-12-16",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (27).jpg"
+      ],
+      "caption": "Ciae, upright and quiet, carved from a single stone. Shadow, and a single beam across the limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 183,
+      "date": "2026-12-17",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (28).jpg"
+      ],
+      "caption": "The straight silhouette of Ciae, in Alba limestone. Dark ground, pale stone. The matter speaks alone. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 184,
+      "date": "2026-12-18",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (29).jpg"
+      ],
+      "caption": "Ciae, a column made soft. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 185,
+      "date": "2026-12-19",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (30).jpg"
+      ],
+      "caption": "Ciae, a cylinder of still stone, where the stone speaks first. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 186,
+      "date": "2026-12-20",
+      "type": "carousel",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (26).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (27).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (28).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (29).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (30).jpg"
+      ],
+      "caption": "Ciae in five frames. One week beside the same cylinder in Alba limestone, under changing light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 187,
+      "date": "2026-12-21",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (26).jpg"
+      ],
+      "caption": "Calm made matter. The flared stem of Galea. Earth tones and late warmth. A bath that holds you.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 188,
+      "date": "2026-12-22",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (27).jpg"
+      ],
+      "caption": "The sculpted goblet of Galea: stone that asks to be touched. A backlit niche; light traces the rim.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 189,
+      "date": "2026-12-23",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (28).jpg"
+      ],
+      "caption": "Still lines. Galea, poised like a vessel. Light grazes the edge and reveals the grain. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 190,
+      "date": "2026-12-24",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (29).jpg"
+      ],
+      "caption": "The chalice of Galea, carved from a single stone. Shadow, and a single beam across the limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 191,
+      "date": "2026-12-25",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (30).jpg"
+      ],
+      "caption": "Galea, a cup lifted from stone, in Alba limestone. Earth tones and late warmth. A bath that holds you. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 192,
+      "date": "2026-12-26",
+      "type": "carousel",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (26).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (27).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (28).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (29).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (30).jpg"
+      ],
+      "caption": "Five ways to see Galea. Chalice, five atmospheres, one single stone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 193,
+      "date": "2026-12-27",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (26).jpg"
+      ],
+      "caption": "The gentle hollow of Hue, where the stone speaks first. Mineral and sober; the piece breathes alone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 194,
+      "date": "2026-12-28",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (27).jpg"
+      ],
+      "caption": "Hue, a bowl that holds the light, made to outlast us. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 195,
+      "date": "2026-12-29",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (28).jpg"
+      ],
+      "caption": "Calm made matter. The low bowl of Hue. Earth tones and late warmth. A bath that holds you. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 196,
+      "date": "2026-12-30",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (29).jpg"
+      ],
+      "caption": "Hue, an open shallow basin: stone that asks to be touched. A backlit niche; light traces the rim.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 197,
+      "date": "2026-12-31",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (30).jpg"
+      ],
+      "caption": "Still lines. The wide quiet mouth of Hue. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 198,
+      "date": "2027-01-01",
+      "type": "carousel",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (26).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (27).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (28).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (29).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (30).jpg"
+      ],
+      "caption": "The week of Hue, gathered. Five rooms for one open bowl in Alba limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 199,
+      "date": "2027-01-02",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (7).jpg"
+      ],
+      "caption": "The pebble form of Levant, made to outlast us. Daylight and sea air. Everything breathes. One stone. From Caravaca de la Cruz.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 200,
+      "date": "2027-01-03",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (8).jpg"
+      ],
+      "caption": "Calm made matter. Levant, smooth as a stone in a stream. Stone upon stone, the way it was always done.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 201,
+      "date": "2027-01-04",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (9).jpg"
+      ],
+      "caption": "The river-stone of Levant: stone that asks to be touched. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 202,
+      "date": "2027-01-05",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (10).jpg"
+      ],
+      "caption": "Still lines. Levant, shaped by water. A hollow of light, the piece become sculpture. Made in Caravaca, made to stay.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 203,
+      "date": "2027-01-06",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (11).jpg"
+      ],
+      "caption": "The organic curve of Levant, carved from a single stone. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design"
+      ],
+      "posted": false
+    },
+    {
+      "id": 204,
+      "date": "2027-01-07",
+      "type": "carousel",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (7).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (8).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (9).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (10).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (11).jpg"
+      ],
+      "caption": "Levant, the whole collection. Five frames chosen from the cycle.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 205,
+      "date": "2027-01-08",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (26).jpg"
+      ],
+      "caption": "Still lines. The low oval of Neiva. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 206,
+      "date": "2027-01-09",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (27).jpg"
+      ],
+      "caption": "Neiva, soft and contained, carved from a single stone. Shadow, and a single beam across the limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 207,
+      "date": "2027-01-10",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (28).jpg"
+      ],
+      "caption": "The rounded silhouette of Neiva, in Alba limestone. Earth tones and late warmth. A bath that holds you. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 208,
+      "date": "2027-01-11",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (29).jpg"
+      ],
+      "caption": "The quiet oval of Neiva. A backlit niche; light traces the rim.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 209,
+      "date": "2027-01-12",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (30).jpg"
+      ],
+      "caption": "Neiva, an oval at rest, where the stone speaks first. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 210,
+      "date": "2027-01-13",
+      "type": "carousel",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (26).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (27).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (28).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (29).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (30).jpg"
+      ],
+      "caption": "We gather Neiva: five images, one character. Alba limestone from Caravaca.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 211,
+      "date": "2027-01-14",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (26).jpg"
+      ],
+      "caption": "Calm made matter. Sorent, a Mediterranean oval. A hollow of light, the piece become sculpture. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 212,
+      "date": "2027-01-15",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (27).jpg"
+      ],
+      "caption": "The serene profile of Sorent: stone that asks to be touched. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 213,
+      "date": "2027-01-16",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (28).jpg"
+      ],
+      "caption": "Still lines. The rounded stone of Sorent. Stone counter, evening light, silence. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 214,
+      "date": "2027-01-17",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (29).jpg"
+      ],
+      "caption": "Sorent, unhurried and round, carved from a single stone. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 215,
+      "date": "2027-01-18",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (30).jpg"
+      ],
+      "caption": "The round calm of Sorent, in Alba limestone. Earth tones and late warmth. A bath that holds you. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 216,
+      "date": "2027-01-19",
+      "type": "carousel",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (26).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (27).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (28).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (29).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (30).jpg"
+      ],
+      "caption": "A week in review. Sorent and its round basin, in five quiet gestures.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 217,
+      "date": "2027-01-20",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (31).jpg"
+      ],
+      "caption": "Ciae, upright and quiet, where the stone speaks first. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 218,
+      "date": "2027-01-21",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (32).jpg"
+      ],
+      "caption": "The straight silhouette of Ciae, made to outlast us. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 219,
+      "date": "2027-01-22",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (33).jpg"
+      ],
+      "caption": "Calm made matter. Ciae, a column made soft. Earth tones and late warmth. A bath that holds you. Alba limestone: the stone of our land. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 220,
+      "date": "2027-01-23",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (34).jpg"
+      ],
+      "caption": "Ciae, a cylinder of still stone: stone that asks to be touched. Mineral and sober; the piece breathes alone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 221,
+      "date": "2027-01-24",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (35).jpg"
+      ],
+      "caption": "Still lines. The clean cylinder of Ciae. Light grazes the edge and reveals the grain.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 222,
+      "date": "2027-01-25",
+      "type": "carousel",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (31).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (32).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (33).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (34).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (35).jpg"
+      ],
+      "caption": "Ciae in five frames. One week beside the same cylinder in Alba limestone, under changing light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 223,
+      "date": "2027-01-26",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (31).jpg"
+      ],
+      "caption": "The sculpted goblet of Galea, in Alba limestone. Earth tones and late warmth. A bath that holds you.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 224,
+      "date": "2027-01-27",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (32).jpg"
+      ],
+      "caption": "Galea, poised like a vessel. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 225,
+      "date": "2027-01-28",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (33).jpg"
+      ],
+      "caption": "The chalice of Galea, where the stone speaks first. Stone counter, evening light, silence. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 226,
+      "date": "2027-01-29",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (34).jpg"
+      ],
+      "caption": "Galea, a cup lifted from stone, made to outlast us. Shadow, and a single beam across the limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 227,
+      "date": "2027-01-30",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (1).jpg"
+      ],
+      "caption": "Galea, a cup lifted from stone, carved from a single stone. Artisan tile and natural stone, in conversation.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 228,
+      "date": "2027-01-31",
+      "type": "carousel",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (31).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (32).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (33).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (34).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (1).jpg"
+      ],
+      "caption": "Five ways to see Galea. Chalice, five atmospheres, one single stone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 229,
+      "date": "2027-02-01",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (1).jpg"
+      ],
+      "caption": "The gentle hollow of Hue. Southern light enters, and the stone keeps it. One stone. From Caravaca de la Cruz.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 230,
+      "date": "2027-02-02",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (2).jpg"
+      ],
+      "caption": "Hue, a bowl that holds the light, where the stone speaks first. Clear mornings and honest matter.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 231,
+      "date": "2027-02-03",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (3).jpg"
+      ],
+      "caption": "The low bowl of Hue, made to outlast us. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design"
+      ],
+      "posted": false
+    },
+    {
+      "id": 232,
+      "date": "2027-02-04",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (4).jpg"
+      ],
+      "caption": "Calm made matter. Hue, an open shallow basin. Nocturnal restraint: pale stone on deep ground. Made in Caravaca, made to stay. The whole room, at a glance.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 233,
+      "date": "2027-02-05",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (5).jpg"
+      ],
+      "caption": "The wide quiet mouth of Hue: stone that asks to be touched. Continuous surfaces, matter held quiet.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 234,
+      "date": "2027-02-06",
+      "type": "carousel",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (1).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (2).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (3).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (4).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (5).jpg"
+      ],
+      "caption": "The week of Hue, gathered. Five rooms for one open bowl in Alba limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 235,
+      "date": "2027-02-07",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (12).jpg"
+      ],
+      "caption": "Levant, smooth as a stone in a stream, carved from a single stone. Warm travertine and wood; the light falls slow across the top. One stone. From Caravaca de la Cruz.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details"
+      ],
+      "posted": false
+    },
+    {
+      "id": 236,
+      "date": "2027-02-08",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (13).jpg"
+      ],
+      "caption": "The river-stone of Levant, in Alba limestone. Light grazes the edge and reveals the grain.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 237,
+      "date": "2027-02-09",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (14).jpg"
+      ],
+      "caption": "Levant, shaped by water. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter"
+      ],
+      "posted": false
+    },
+    {
+      "id": 238,
+      "date": "2027-02-10",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (15).jpg"
+      ],
+      "caption": "The organic curve of Levant, where the stone speaks first. Dark ground, pale stone. The matter speaks alone. Made in Caravaca, made to stay.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 239,
+      "date": "2027-02-11",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (16).jpg"
+      ],
+      "caption": "The pebble form of Levant, made to outlast us. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter"
+      ],
+      "posted": false
+    },
+    {
+      "id": 240,
+      "date": "2027-02-12",
+      "type": "carousel",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (12).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (13).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (14).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (15).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (16).jpg"
+      ],
+      "caption": "Levant, the whole collection. Five frames chosen from the cycle.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 241,
+      "date": "2027-02-13",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (31).jpg"
+      ],
+      "caption": "Neiva, soft and contained, where the stone speaks first. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 242,
+      "date": "2027-02-14",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (32).jpg"
+      ],
+      "caption": "The rounded silhouette of Neiva, made to outlast us. Shadow and character. The limestone glows from within.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 243,
+      "date": "2027-02-15",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (33).jpg"
+      ],
+      "caption": "Calm made matter. The quiet oval of Neiva. Earth tones and late warmth. A bath that holds you. Alba limestone: the stone of our land. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 244,
+      "date": "2027-02-16",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (34).jpg"
+      ],
+      "caption": "Neiva, an oval at rest: stone that asks to be touched. A backlit niche; light traces the rim.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 245,
+      "date": "2027-02-17",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (35).jpg"
+      ],
+      "caption": "Still lines. The low oval of Neiva. Light grazes the edge and reveals the grain.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 246,
+      "date": "2027-02-18",
+      "type": "carousel",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (31).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (32).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (33).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (34).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (35).jpg"
+      ],
+      "caption": "We gather Neiva: five images, one character. Alba limestone from Caravaca.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 247,
+      "date": "2027-02-19",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (31).jpg"
+      ],
+      "caption": "The serene profile of Sorent, in Alba limestone. Earth tones and late warmth. A bath that holds you.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 248,
+      "date": "2027-02-20",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (32).jpg"
+      ],
+      "caption": "The rounded stone of Sorent. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 249,
+      "date": "2027-02-21",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (33).jpg"
+      ],
+      "caption": "Sorent, unhurried and round, where the stone speaks first. Stone counter, evening light, silence. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 250,
+      "date": "2027-02-22",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (34).jpg"
+      ],
+      "caption": "The round calm of Sorent, made to outlast us. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 251,
+      "date": "2027-02-23",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (35).jpg"
+      ],
+      "caption": "Calm made matter. Sorent, a Mediterranean oval. A hollow of light, the piece become sculpture.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 252,
+      "date": "2027-02-24",
+      "type": "carousel",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (31).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (32).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (33).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (34).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (35).jpg"
+      ],
+      "caption": "A week in review. Sorent and its round basin, in five quiet gestures.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 253,
+      "date": "2027-02-25",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (36).jpg"
+      ],
+      "caption": "Still lines. The straight silhouette of Ciae. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 254,
+      "date": "2027-02-26",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (37).jpg"
+      ],
+      "caption": "Ciae, a column made soft, carved from a single stone. Shadow, and a single beam across the limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 255,
+      "date": "2027-02-27",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (1).jpg"
+      ],
+      "caption": "Ciae, a column made soft, made to outlast us. Daylight and sea air. Everything breathes.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 256,
+      "date": "2027-02-28",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (2).jpg"
+      ],
+      "caption": "Calm made matter. Ciae, a cylinder of still stone. Open rooms where limestone sets the tone. Made in Caravaca, made to stay.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 257,
+      "date": "2027-03-01",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (3).jpg"
+      ],
+      "caption": "The clean cylinder of Ciae: stone that asks to be touched. Continuous surfaces, matter held quiet.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 258,
+      "date": "2027-03-02",
+      "type": "carousel",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (36).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (37).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (1).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (2).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (3).jpg"
+      ],
+      "caption": "Ciae in five frames. One week beside the same cylinder in Alba limestone, under changing light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 259,
+      "date": "2027-03-03",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (2).jpg"
+      ],
+      "caption": "The sculpted goblet of Galea, carved from a single stone. Daylight and sea air. Everything breathes. One stone. From Caravaca de la Cruz.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design"
+      ],
+      "posted": false
+    },
+    {
+      "id": 260,
+      "date": "2027-03-04",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (3).jpg"
+      ],
+      "caption": "Galea, poised like a vessel, in Alba limestone. Open rooms where limestone sets the tone. Look at the rim, look at the grain.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 261,
+      "date": "2027-03-05",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (4).jpg"
+      ],
+      "caption": "The chalice of Galea. Southern light enters, and the stone keeps it.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 262,
+      "date": "2027-03-06",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (5).jpg"
+      ],
+      "caption": "Galea, a cup lifted from stone, where the stone speaks first. Quiet green and Alba limestone, in balance. Made in Caravaca, made to stay.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 263,
+      "date": "2027-03-07",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (6).jpg"
+      ],
+      "caption": "The flared stem of Galea, made to outlast us. Artisan tile and natural stone, in conversation.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details"
+      ],
+      "posted": false
+    },
+    {
+      "id": 264,
+      "date": "2027-03-08",
+      "type": "carousel",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (2).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (3).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (4).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (5).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (6).jpg"
+      ],
+      "caption": "Five ways to see Galea. Chalice, five atmospheres, one single stone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 265,
+      "date": "2027-03-09",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (6).jpg"
+      ],
+      "caption": "Hue, a bowl that holds the light: stone that asks to be touched. Limestone and timber speak softly in the half-light. One stone. From Caravaca de la Cruz.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter"
+      ],
+      "posted": false
+    },
+    {
+      "id": 266,
+      "date": "2027-03-10",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (7).jpg"
+      ],
+      "caption": "Still lines. The low bowl of Hue. Earth tones and late warmth. A bath that holds you.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 267,
+      "date": "2027-03-11",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (8).jpg"
+      ],
+      "caption": "Hue, an open shallow basin, carved from a single stone. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter"
+      ],
+      "posted": false
+    },
+    {
+      "id": 268,
+      "date": "2027-03-12",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (9).jpg"
+      ],
+      "caption": "The wide quiet mouth of Hue, in Alba limestone. Stone counter, evening light, silence. Made in Caravaca, made to stay. Look at the rim, look at the grain.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 269,
+      "date": "2027-03-13",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (10).jpg"
+      ],
+      "caption": "The gentle hollow of Hue. Shadow and character. The limestone glows from within.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 270,
+      "date": "2027-03-14",
+      "type": "carousel",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (6).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (7).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (8).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (9).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (10).jpg"
+      ],
+      "caption": "The week of Hue, gathered. Five rooms for one open bowl in Alba limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 271,
+      "date": "2027-03-15",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (17).jpg"
+      ],
+      "caption": "The river-stone of Levant, made to outlast us. Warm travertine and wood; the light falls slow across the top. One stone. From Caravaca de la Cruz.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 272,
+      "date": "2027-03-16",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (18).jpg"
+      ],
+      "caption": "Calm made matter. Levant, shaped by water. Nocturnal restraint: pale stone on deep ground.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 273,
+      "date": "2027-03-17",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (19).jpg"
+      ],
+      "caption": "The organic curve of Levant: stone that asks to be touched. Shadow, and a single beam across the limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design"
+      ],
+      "posted": false
+    },
+    {
+      "id": 274,
+      "date": "2027-03-18",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (1).jpg"
+      ],
+      "caption": "The organic curve of Levant. Daylight and sea air. Everything breathes.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 275,
+      "date": "2027-03-19",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (2).jpg"
+      ],
+      "caption": "The pebble form of Levant, where the stone speaks first. Open rooms where limestone sets the tone. Alba limestone, quarried and worked in Caravaca.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 276,
+      "date": "2027-03-20",
+      "type": "carousel",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (17).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (18).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (19).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (1).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (2).jpg"
+      ],
+      "caption": "Levant, the whole collection. Five frames chosen from the cycle.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 277,
+      "date": "2027-03-21",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (36).jpg"
+      ],
+      "caption": "Still lines. The rounded silhouette of Neiva. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 278,
+      "date": "2027-03-22",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (37).jpg"
+      ],
+      "caption": "The quiet oval of Neiva, carved from a single stone. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 279,
+      "date": "2027-03-23",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (38).jpg"
+      ],
+      "caption": "Neiva, an oval at rest, in Alba limestone. Earth tones and late warmth. A bath that holds you. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 280,
+      "date": "2027-03-24",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (39).jpg"
+      ],
+      "caption": "The low oval of Neiva. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 281,
+      "date": "2027-03-25",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (40).jpg"
+      ],
+      "caption": "Neiva, soft and contained, where the stone speaks first. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 282,
+      "date": "2027-03-26",
+      "type": "carousel",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (36).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (37).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (38).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (39).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (40).jpg"
+      ],
+      "caption": "We gather Neiva: five images, one character. Alba limestone from Caravaca.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 283,
+      "date": "2027-03-27",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (36).jpg"
+      ],
+      "caption": "Calm made matter. The rounded stone of Sorent. Clear mornings and honest matter.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 284,
+      "date": "2027-03-28",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (37).jpg"
+      ],
+      "caption": "Sorent, unhurried and round: stone that asks to be touched. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 285,
+      "date": "2027-03-29",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (38).jpg"
+      ],
+      "caption": "Still lines. The round calm of Sorent. Stone counter, evening light, silence. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 286,
+      "date": "2027-03-30",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (39).jpg"
+      ],
+      "caption": "Sorent, a Mediterranean oval, carved from a single stone. Southern light enters, and the stone keeps it.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 287,
+      "date": "2027-03-31",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (40).jpg"
+      ],
+      "caption": "The serene profile of Sorent, in Alba limestone. Earth tones and late warmth. A bath that holds you. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 288,
+      "date": "2027-04-01",
+      "type": "carousel",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (36).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (37).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (38).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (39).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (40).jpg"
+      ],
+      "caption": "A week in review. Sorent and its round basin, in five quiet gestures.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 289,
+      "date": "2027-04-02",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (4).jpg"
+      ],
+      "caption": "The straight silhouette of Ciae: stone that asks to be touched. Limestone and timber speak softly in the half-light. One stone. From Caravaca de la Cruz.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 290,
+      "date": "2027-04-03",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (5).jpg"
+      ],
+      "caption": "Still lines. Ciae, a column made soft. Earth tones and late warmth. A bath that holds you.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 291,
+      "date": "2027-04-04",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (6).jpg"
+      ],
+      "caption": "Ciae, a cylinder of still stone, carved from a single stone. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details"
+      ],
+      "posted": false
+    },
+    {
+      "id": 292,
+      "date": "2027-04-05",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (7).jpg"
+      ],
+      "caption": "The clean cylinder of Ciae, in Alba limestone. Stone counter, evening light, silence. Made in Caravaca, made to stay.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 293,
+      "date": "2027-04-06",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (8).jpg"
+      ],
+      "caption": "Ciae, upright and quiet. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter"
+      ],
+      "posted": false
+    },
+    {
+      "id": 294,
+      "date": "2027-04-07",
+      "type": "carousel",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (4).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (5).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (6).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (7).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (8).jpg"
+      ],
+      "caption": "Ciae in five frames. One week beside the same cylinder in Alba limestone, under changing light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 295,
+      "date": "2027-04-08",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (7).jpg"
+      ],
+      "caption": "Galea, poised like a vessel, made to outlast us. Warm travertine and wood; the light falls slow across the top. One stone. From Caravaca de la Cruz.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter"
+      ],
+      "posted": false
+    },
+    {
+      "id": 296,
+      "date": "2027-04-09",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (8).jpg"
+      ],
+      "caption": "Calm made matter. The chalice of Galea. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 297,
+      "date": "2027-04-10",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (9).jpg"
+      ],
+      "caption": "Galea, a cup lifted from stone: stone that asks to be touched. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 298,
+      "date": "2027-04-11",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (10).jpg"
+      ],
+      "caption": "Still lines. The flared stem of Galea. Earth tones and late warmth. A bath that holds you. Made in Caravaca, made to stay.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 299,
+      "date": "2027-04-12",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (11).jpg"
+      ],
+      "caption": "The sculpted goblet of Galea, carved from a single stone. Night, brass and contrast. Quiet luxury.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 300,
+      "date": "2027-04-13",
+      "type": "carousel",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (7).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (8).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (9).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (10).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (11).jpg"
+      ],
+      "caption": "Five ways to see Galea. Chalice, five atmospheres, one single stone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 301,
+      "date": "2027-04-14",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (11).jpg"
+      ],
+      "caption": "The low bowl of Hue. Limestone and timber speak softly in the half-light. One stone. From Caravaca de la Cruz.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design"
+      ],
+      "posted": false
+    },
+    {
+      "id": 302,
+      "date": "2027-04-15",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (12).jpg"
+      ],
+      "caption": "Hue, an open shallow basin, where the stone speaks first. Earth tones and late warmth. A bath that holds you.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 303,
+      "date": "2027-04-16",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (13).jpg"
+      ],
+      "caption": "The wide quiet mouth of Hue, made to outlast us. A backlit niche; light traces the rim.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 304,
+      "date": "2027-04-17",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (14).jpg"
+      ],
+      "caption": "Calm made matter. The gentle hollow of Hue. Stone counter, evening light, silence. Made in Caravaca, made to stay.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 305,
+      "date": "2027-04-18",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (15).jpg"
+      ],
+      "caption": "Hue, a bowl that holds the light: stone that asks to be touched. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details"
+      ],
+      "posted": false
+    },
+    {
+      "id": 306,
+      "date": "2027-04-19",
+      "type": "carousel",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (11).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (12).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (13).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (14).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (15).jpg"
+      ],
+      "caption": "The week of Hue, gathered. Five rooms for one open bowl in Alba limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 307,
+      "date": "2027-04-20",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (3).jpg"
+      ],
+      "caption": "The river-stone of Levant, where the stone speaks first. Mineral and sober; the piece breathes alone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 308,
+      "date": "2027-04-21",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (4).jpg"
+      ],
+      "caption": "Levant, shaped by water, made to outlast us. Continuous surfaces, matter held quiet. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 309,
+      "date": "2027-04-22",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (5).jpg"
+      ],
+      "caption": "Calm made matter. The organic curve of Levant. Clear mornings and honest matter.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 310,
+      "date": "2027-04-23",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (6).jpg"
+      ],
+      "caption": "The pebble form of Levant: stone that asks to be touched. Daylight and sea air. Everything breathes.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 311,
+      "date": "2027-04-24",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (7).jpg"
+      ],
+      "caption": "Still lines. Levant, smooth as a stone in a stream. Open rooms where limestone sets the tone. Alba limestone, quarried and worked in Caravaca.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 312,
+      "date": "2027-04-25",
+      "type": "carousel",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (3).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (4).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (5).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (6).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (7).jpg"
+      ],
+      "caption": "Levant, the whole collection. Five frames chosen from the cycle.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 313,
+      "date": "2027-04-26",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (41).jpg"
+      ],
+      "caption": "The quiet oval of Neiva, where the stone speaks first. Stone counter, evening light, silence.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 314,
+      "date": "2027-04-27",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (42).jpg"
+      ],
+      "caption": "Neiva, an oval at rest, made to outlast us. Shadow, and a single beam across the limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 315,
+      "date": "2027-04-28",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (43).jpg"
+      ],
+      "caption": "Calm made matter. The low oval of Neiva. A hollow of light, the piece become sculpture. Alba limestone: the stone of our land. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 316,
+      "date": "2027-04-29",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (44).jpg"
+      ],
+      "caption": "Neiva, soft and contained: stone that asks to be touched. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 317,
+      "date": "2027-04-30",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (45).jpg"
+      ],
+      "caption": "Still lines. The rounded silhouette of Neiva. Nocturnal restraint: pale stone on deep ground.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 318,
+      "date": "2027-05-01",
+      "type": "carousel",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (41).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (42).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (43).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (44).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (45).jpg"
+      ],
+      "caption": "We gather Neiva: five images, one character. Alba limestone from Caravaca.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 319,
+      "date": "2027-05-02",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (41).jpg"
+      ],
+      "caption": "Sorent, unhurried and round, in Alba limestone. Earth tones and late warmth. A bath that holds you.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign"
+      ],
+      "posted": false
+    },
+    {
+      "id": 320,
+      "date": "2027-05-03",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (42).jpg"
+      ],
+      "caption": "The round calm of Sorent. Night, brass and contrast. Quiet luxury.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 321,
+      "date": "2027-05-04",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (43).jpg"
+      ],
+      "caption": "Sorent, a Mediterranean oval, where the stone speaks first. Light grazes the edge and reveals the grain. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 322,
+      "date": "2027-05-05",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (44).jpg"
+      ],
+      "caption": "The serene profile of Sorent, made to outlast us. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 323,
+      "date": "2027-05-06",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (1).jpg"
+      ],
+      "caption": "The serene profile of Sorent, carved from a single stone. A wall of rough stone and patient hands. The Mediterranean, indoors.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter"
+      ],
+      "posted": false
+    },
+    {
+      "id": 324,
+      "date": "2027-05-07",
+      "type": "carousel",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (41).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (42).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (43).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (44).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (1).jpg"
+      ],
+      "caption": "A week in review. Sorent and its round basin, in five quiet gestures.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 325,
+      "date": "2027-05-08",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (9).jpg"
+      ],
+      "caption": "Ciae, a column made soft. Limestone and timber speak softly in the half-light. One stone. From Caravaca de la Cruz.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 326,
+      "date": "2027-05-09",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (10).jpg"
+      ],
+      "caption": "Ciae, a cylinder of still stone, where the stone speaks first. Continuous surfaces, matter held quiet.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 327,
+      "date": "2027-05-10",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (11).jpg"
+      ],
+      "caption": "The clean cylinder of Ciae, made to outlast us. A backlit niche; light traces the rim.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 328,
+      "date": "2027-05-11",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (12).jpg"
+      ],
+      "caption": "Calm made matter. Ciae, upright and quiet. Stone counter, evening light, silence. Made in Caravaca, made to stay. The whole room, at a glance.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 329,
+      "date": "2027-05-12",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (13).jpg"
+      ],
+      "caption": "The straight silhouette of Ciae: stone that asks to be touched. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design"
+      ],
+      "posted": false
+    },
+    {
+      "id": 330,
+      "date": "2027-05-13",
+      "type": "carousel",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (9).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (10).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (11).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (12).jpg",
+        "catalogo/imagenes/lavabo-01-ciae/render (13).jpg"
+      ],
+      "caption": "Ciae in five frames. One week beside the same cylinder in Alba limestone, under changing light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 331,
+      "date": "2027-05-14",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (12).jpg"
+      ],
+      "caption": "The chalice of Galea, carved from a single stone. Warm travertine and wood; the light falls slow across the top. One stone. From Caravaca de la Cruz.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 332,
+      "date": "2027-05-15",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (13).jpg"
+      ],
+      "caption": "Galea, a cup lifted from stone, in Alba limestone. Stone counter, evening light, silence. Look at the rim, look at the grain.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#mediterraneandesign",
+        "#bathroomdesign",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 333,
+      "date": "2027-05-16",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (14).jpg"
+      ],
+      "caption": "The flared stem of Galea. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details"
+      ],
+      "posted": false
+    },
+    {
+      "id": 334,
+      "date": "2027-05-17",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (15).jpg"
+      ],
+      "caption": "The sculpted goblet of Galea, where the stone speaks first. Earth tones and late warmth. A bath that holds you. Made in Caravaca, made to stay.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 335,
+      "date": "2027-05-18",
+      "type": "single",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (16).jpg"
+      ],
+      "caption": "Galea, poised like a vessel, made to outlast us. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter"
+      ],
+      "posted": false
+    },
+    {
+      "id": 336,
+      "date": "2027-05-19",
+      "type": "carousel",
+      "collection": "galea",
+      "images": [
+        "catalogo/imagenes/lavabo-01-galea/render (12).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (13).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (14).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (15).jpg",
+        "catalogo/imagenes/lavabo-01-galea/render (16).jpg"
+      ],
+      "caption": "Five ways to see Galea. Chalice, five atmospheres, one single stone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Galea"
+      ],
+      "posted": false
+    },
+    {
+      "id": 337,
+      "date": "2027-05-20",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (16).jpg"
+      ],
+      "caption": "Hue, an open shallow basin: stone that asks to be touched. Shadow and character. The limestone glows from within. One stone. From Caravaca de la Cruz.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter"
+      ],
+      "posted": false
+    },
+    {
+      "id": 338,
+      "date": "2027-05-21",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (17).jpg"
+      ],
+      "caption": "Still lines. The wide quiet mouth of Hue. Earth tones and late warmth. A bath that holds you.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 339,
+      "date": "2027-05-22",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (18).jpg"
+      ],
+      "caption": "The gentle hollow of Hue, carved from a single stone. A backlit niche; light traces the rim.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 340,
+      "date": "2027-05-23",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (19).jpg"
+      ],
+      "caption": "Hue, a bowl that holds the light, in Alba limestone. Stone counter, evening light, silence. Made in Caravaca, made to stay.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#understated",
+        "#Caravaca",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 341,
+      "date": "2027-05-24",
+      "type": "single",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (20).jpg"
+      ],
+      "caption": "The low bowl of Hue. Continuous surfaces, matter held quiet.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 342,
+      "date": "2027-05-25",
+      "type": "carousel",
+      "collection": "hue",
+      "images": [
+        "catalogo/imagenes/lavabo-01-hue/render (16).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (17).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (18).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (19).jpg",
+        "catalogo/imagenes/lavabo-01-hue/render (20).jpg"
+      ],
+      "caption": "The week of Hue, gathered. Five rooms for one open bowl in Alba limestone.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Hue"
+      ],
+      "posted": false
+    },
+    {
+      "id": 343,
+      "date": "2027-05-26",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (8).jpg"
+      ],
+      "caption": "Still lines. Levant, shaped by water. Stone upon stone, the way it was always done.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone"
+      ],
+      "posted": false
+    },
+    {
+      "id": 344,
+      "date": "2027-05-27",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (9).jpg"
+      ],
+      "caption": "The organic curve of Levant, carved from a single stone. Limestone and timber speak softly in the half-light. Alba limestone: the stone of our land.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 345,
+      "date": "2027-05-28",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (10).jpg"
+      ],
+      "caption": "The pebble form of Levant, in Alba limestone. A hollow of light, the piece become sculpture. The detail, up close.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom"
+      ],
+      "posted": false
+    },
+    {
+      "id": 346,
+      "date": "2027-05-29",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (11).jpg"
+      ],
+      "caption": "Levant, smooth as a stone in a stream. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 347,
+      "date": "2027-05-30",
+      "type": "single",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (12).jpg"
+      ],
+      "caption": "The river-stone of Levant, where the stone speaks first. Stone counter, evening light, silence. Alba limestone, quarried and worked in Caravaca.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 348,
+      "date": "2027-05-31",
+      "type": "carousel",
+      "collection": "levant",
+      "images": [
+        "catalogo/imagenes/lavabo-01-levant/render (8).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (9).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (10).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (11).jpg",
+        "catalogo/imagenes/lavabo-01-levant/render (12).jpg"
+      ],
+      "caption": "Levant, the whole collection. Five frames chosen from the cycle.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design",
+        "#Levant"
+      ],
+      "posted": false
+    },
+    {
+      "id": 349,
+      "date": "2027-06-01",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (46).jpg"
+      ],
+      "caption": "Still lines. Neiva, an oval at rest. Stone upon stone, the way it was always done.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors"
+      ],
+      "posted": false
+    },
+    {
+      "id": 350,
+      "date": "2027-06-02",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (1).jpg"
+      ],
+      "caption": "Neiva, an oval at rest, where the stone speaks first. White on white; the form speaks for itself.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 351,
+      "date": "2027-06-03",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (2).jpg"
+      ],
+      "caption": "The low oval of Neiva, made to outlast us. Daylight and sea air. Everything breathes.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter"
+      ],
+      "posted": false
+    },
+    {
+      "id": 352,
+      "date": "2027-06-04",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (3).jpg"
+      ],
+      "caption": "Calm made matter. Neiva, soft and contained. Contemporary purity, natural matter. Made in Caravaca, made to stay.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#interiorarchitecture",
+        "#AlbaLimestone",
+        "#Caravaca",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 353,
+      "date": "2027-06-05",
+      "type": "single",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (4).jpg"
+      ],
+      "caption": "The rounded silhouette of Neiva: stone that asks to be touched. Southern light enters, and the stone keeps it.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#madeinSpain",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 354,
+      "date": "2027-06-06",
+      "type": "carousel",
+      "collection": "neiva",
+      "images": [
+        "catalogo/imagenes/lavabo-01-neiva/render (46).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (1).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (2).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (3).jpg",
+        "catalogo/imagenes/lavabo-01-neiva/render (4).jpg"
+      ],
+      "caption": "We gather Neiva: five images, one character. Alba limestone from Caravaca.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter",
+        "#Neiva"
+      ],
+      "posted": false
+    },
+    {
+      "id": 355,
+      "date": "2027-06-07",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (2).jpg"
+      ],
+      "caption": "Sorent, unhurried and round, carved from a single stone. A wall of rough stone and patient hands. The Mediterranean, indoors. One stone. From Caravaca de la Cruz.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 356,
+      "date": "2027-06-08",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (3).jpg"
+      ],
+      "caption": "The round calm of Sorent, in Alba limestone. Stone upon stone, the way it was always done.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#stonebasin",
+        "#naturalstone",
+        "#mediterraneandesign",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 357,
+      "date": "2027-06-09",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (4).jpg"
+      ],
+      "caption": "Sorent, a Mediterranean oval. Mineral microcement and stone. Monolithic stillness.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalbathroom",
+        "#livingstone",
+        "#design"
+      ],
+      "posted": false
+    },
+    {
+      "id": 358,
+      "date": "2027-06-10",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (5).jpg"
+      ],
+      "caption": "The serene profile of Sorent, where the stone speaks first. Mineral and sober; the piece breathes alone. Made in Caravaca, made to stay.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#bathroomswithsoul",
+        "#naturalstone",
+        "#interiors",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 359,
+      "date": "2027-06-11",
+      "type": "single",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (6).jpg"
+      ],
+      "caption": "The rounded stone of Sorent, made to outlast us. Continuous surfaces, matter held quiet.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#Caravaca"
+      ],
+      "posted": false
+    },
+    {
+      "id": 360,
+      "date": "2027-06-12",
+      "type": "carousel",
+      "collection": "sorent",
+      "images": [
+        "catalogo/imagenes/lavabo-01-sorent/render (2).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (3).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (4).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (5).jpg",
+        "catalogo/imagenes/lavabo-01-sorent/render (6).jpg"
+      ],
+      "caption": "A week in review. Sorent and its round basin, in five quiet gestures.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#naturalstone",
+        "#interiordesign",
+        "#Caravaca",
+        "#Sorent"
+      ],
+      "posted": false
+    },
+    {
+      "id": 361,
+      "date": "2027-06-13",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (14).jpg"
+      ],
+      "caption": "Ciae, a cylinder of still stone: stone that asks to be touched. Shadow and character. The limestone glows from within. One stone. From Caravaca de la Cruz.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#handcrafted",
+        "#limestone",
+        "#details"
+      ],
+      "posted": false
+    },
+    {
+      "id": 362,
+      "date": "2027-06-14",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (15).jpg"
+      ],
+      "caption": "Still lines. The clean cylinder of Ciae. A hollow of light, the piece become sculpture.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#washbasin",
+        "#interiordesign",
+        "#naturalstone",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 363,
+      "date": "2027-06-15",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (16).jpg"
+      ],
+      "caption": "Ciae, upright and quiet, carved from a single stone. Warm travertine and wood; the light falls slow across the top.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#minimalism",
+        "#AlbaLimestone",
+        "#mediterraneanmatter"
+      ],
+      "posted": false
+    },
+    {
+      "id": 364,
+      "date": "2027-06-16",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (17).jpg"
+      ],
+      "caption": "The straight silhouette of Ciae, in Alba limestone. Stone counter, evening light, silence. Made in Caravaca, made to stay.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#stonebasin",
+        "#premiumbathroom",
+        "#Ciae"
+      ],
+      "posted": false
+    },
+    {
+      "id": 365,
+      "date": "2027-06-17",
+      "type": "single",
+      "collection": "ciae",
+      "images": [
+        "catalogo/imagenes/lavabo-01-ciae/render (18).jpg"
+      ],
+      "caption": "Ciae, a column made soft. Limestone and timber speak softly in the half-light.",
+      "hashtags": [
+        "#SenthiaCore",
+        "#AlbaLimestone",
+        "#slowdesign",
+        "#naturalmatter"
+      ],
+      "posted": false
+    }
+  ]
+}

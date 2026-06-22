@@ -1,0 +1,67 @@
+name: Publicacion diaria Senthia Core
+
+on:
+  schedule:
+    # 08:00 UTC = 10:00 hora peninsular en verano (CEST) / 09:00 en invierno (CET)
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Probar sin publicar (true/false)"
+        default: "false"
+      catch_up:
+        description: "Publicar todas las atrasadas (true/false)"
+        default: "false"
+      date:
+        description: "Fecha 'hoy' simulada (YYYY-MM-DD, opcional)"
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicacion-senthia
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r automatizacion/requirements.txt
+
+      - name: Publicar
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          IG_USER_ID:        ${{ secrets.IG_USER_ID }}
+          FB_PAGE_ID:        ${{ secrets.FB_PAGE_ID }}
+          IMAGE_BASE_URL:    ${{ secrets.IMAGE_BASE_URL }}
+          GRAPH_VERSION:     v21.0
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ "${{ github.event.inputs.catch_up }}" = "true" ]; then ARGS="$ARGS --catch-up"; fi
+          if [ -n "${{ github.event.inputs.date }}" ]; then ARGS="$ARGS --date ${{ github.event.inputs.date }}"; fi
+          echo "Ejecutando: python automatizacion/publish.py $ARGS"
+          python automatizacion/publish.py $ARGS
+
+      - name: Guardar plan.json actualizado
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          if ! git diff --quiet -- plan.json; then
+            git config user.name  "senthia-bot"
+            git config user.email "bot@senthia.local"
+            git add plan.json
+            git commit -m "chore: marca publicacion del dia (posted:true) [skip ci]"
+            git push
+          else
+            echo "Sin cambios en plan.json"
+          fi
