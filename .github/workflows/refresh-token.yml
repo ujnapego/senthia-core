@@ -1,0 +1,35 @@
+name: Refrescar token de Instagram
+
+on:
+  schedule:
+    # Lunes 07:00 UTC: refresca el token cada semana (asi nunca caduca)
+    - cron: "0 7 * * 1"
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: refresh-token-senthia
+  cancel-in-progress: false
+
+jobs:
+  refrescar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r automatizacion/requirements.txt
+
+      - name: Refrescar y guardar token
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_PAT:          ${{ secrets.GH_PAT }}
+          GH_REPO:         ${{ github.repository }}
+        run: python automatizacion/refresh_token.py
