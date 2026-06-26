@@ -118,7 +118,11 @@
         "#stonebasin",
         "#premiumbathroom"
       ],
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-06-26T10:52:06.795301+00:00",
+      "result": {
+        "instagram_id": "18055520198516488"
+      }
     },
     {
       "id": 6,
