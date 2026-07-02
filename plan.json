@@ -251,7 +251,11 @@
         "#naturalstone",
         "#mediterraneandesign"
       ],
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-07-02T10:41:15.306705+00:00",
+      "result": {
+        "instagram_id": "17879939760672578"
+      }
     },
     {
       "id": 12,
