@@ -137,6 +137,8 @@ def main():
     ap.add_argument("--catch-up", action="store_true", help="publica todas las atrasadas")
     ap.add_argument("--date", help="fecha 'hoy' simulada YYYY-MM-DD")
     ap.add_argument("--post-id", type=int)
+    ap.add_argument("--type", choices=["single", "carousel"],
+                    help="publica solo ese tipo (p.ej. suelto por la manana, carrusel por la tarde)")
     args = ap.parse_args()
 
     plan_path = os.environ.get("PLAN_PATH") or os.path.join(HERE, "..", "plan.json")
@@ -146,11 +148,14 @@ def main():
 
     today = args.date or dt.date.today().isoformat()
     due = pick_due(posts, today, args.post_id)
+    if args.type:
+        due = [p for p in due if p["type"] == args.type]
     if not due:
-        log(f"No hay nada pendiente para hoy ({today}). Fin.")
+        log(f"No hay nada pendiente para hoy ({today}"
+            + (f", tipo={args.type}" if args.type else "") + "). Fin.")
         return
-    # normalmente 2 publicaciones/dia (1 suelto + 1 carrusel); margen por si se
-    # perdio un dia. Con --catch-up publica todas las atrasadas sin limite.
+    # normalmente 1 publicacion por franja (suelto manana / carrusel tarde); margen
+    # por si se perdio un dia. Con --catch-up publica todas las atrasadas sin limite.
     if not args.catch_up and args.post_id is None:
         due = due[:4]
 

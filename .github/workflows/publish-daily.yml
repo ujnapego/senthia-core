@@ -2,10 +2,14 @@ name: Publicacion diaria Senthia Core
 
 on:
   schedule:
-    # 08:00 UTC = 10:00 hora peninsular en verano (CEST) / 09:00 en invierno (CET)
-    - cron: "0 8 * * *"
+    # Horas en UTC. Verano en Espana (CEST = UTC+2), que es cuando corre el plan.
+    - cron: "10 8 * * *"    # 10:10 Espana -> foto suelta
+    - cron: "15 15 * * *"   # 17:15 Espana -> carrusel
   workflow_dispatch:
     inputs:
+      type:
+        description: "Tipo a publicar (single / carousel / vacio = ambos)"
+        default: ""
       dry_run:
         description: "Probar sin publicar (true/false)"
         default: "false"
@@ -44,11 +48,22 @@ jobs:
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
           IMAGE_BASE_URL:  ${{ secrets.IMAGE_BASE_URL }}
           GRAPH_VERSION:   v23.0
+          SCHEDULE:        ${{ github.event.schedule }}
+          IN_TYPE:         ${{ github.event.inputs.type }}
+          IN_DRY:          ${{ github.event.inputs.dry_run }}
+          IN_CATCHUP:      ${{ github.event.inputs.catch_up }}
+          IN_DATE:         ${{ github.event.inputs.date }}
         run: |
+          # Tipo segun la franja horaria (o segun input manual)
+          TYPE="$IN_TYPE"
+          if [ -z "$TYPE" ] && [ -n "$SCHEDULE" ]; then
+            if [ "$SCHEDULE" = "15 15 * * *" ]; then TYPE="carousel"; else TYPE="single"; fi
+          fi
           ARGS=""
-          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
-          if [ "${{ github.event.inputs.catch_up }}" = "true" ]; then ARGS="$ARGS --catch-up"; fi
-          if [ -n "${{ github.event.inputs.date }}" ]; then ARGS="$ARGS --date ${{ github.event.inputs.date }}"; fi
+          [ -n "$TYPE" ] && ARGS="$ARGS --type $TYPE"
+          [ "$IN_DRY" = "true" ] && ARGS="$ARGS --dry-run"
+          [ "$IN_CATCHUP" = "true" ] && ARGS="$ARGS --catch-up"
+          [ -n "$IN_DATE" ] && ARGS="$ARGS --date $IN_DATE"
           echo "Ejecutando: python automatizacion/publish.py $ARGS"
           python automatizacion/publish.py $ARGS
 
