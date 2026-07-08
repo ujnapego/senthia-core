@@ -149,8 +149,10 @@ def main():
     if not due:
         log(f"No hay nada pendiente para hoy ({today}). Fin.")
         return
+    # normalmente 2 publicaciones/dia (1 suelto + 1 carrusel); margen por si se
+    # perdio un dia. Con --catch-up publica todas las atrasadas sin limite.
     if not args.catch_up and args.post_id is None:
-        due = due[:1]
+        due = due[:4]
 
     log(f"Hoy={today}  a publicar={len(due)}  dry_run={args.dry_run}")
 
