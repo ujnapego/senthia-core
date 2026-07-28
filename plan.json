@@ -1362,7 +1362,11 @@
         "#design",
         "#Levant"
       ],
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-07-28T10:44:03.764759+00:00",
+      "result": {
+        "instagram_id": "18617222122009347"
+      }
     },
     {
       "id": 405,
