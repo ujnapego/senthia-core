@@ -1816,7 +1816,11 @@
         "#interiordesign",
         "#naturalstone"
       ],
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-08-07T16:08:27.319934+00:00",
+      "result": {
+        "instagram_id": "17954385963194556"
+      }
     },
     {
       "id": 424,
@@ -1859,7 +1863,11 @@
         "#stonebasin",
         "#premiumbathroom"
       ],
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-08-07T16:08:58.459423+00:00",
+      "result": {
+        "instagram_id": "18616626199003022"
+      }
     },
     {
       "id": 426,
