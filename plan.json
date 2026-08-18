@@ -2393,7 +2393,11 @@
         "#naturalstone",
         "#interiors"
       ],
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-08-18T15:45:21.861719+00:00",
+      "result": {
+        "instagram_id": "18154301365503858"
+      }
     },
     {
       "id": 448,
